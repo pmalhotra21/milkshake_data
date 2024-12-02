@@ -1,0 +1,26 @@
+{
+  "orders": [
+    {
+      "name": "John Doe",
+      "phone": "123-456-7890",
+      "milkshake": "Vanilla Milkshake",
+      "extras": ["Whipped Cream", "Sprinkles"],
+      "size": "Medium",
+      "food": "Pizza",
+      "pickup_date": "2024-12-05",
+      "pickup_time": "12:30 PM",
+      "special_instructions": "No cheese on pizza"
+    },
+    {
+      "name": "Jane Smith",
+      "phone": "987-654-3210",
+      "milkshake": "Chocolate Milkshake",
+      "extras": ["Cherry on Top"],
+      "size": "Large",
+      "food": "Burger",
+      "pickup_date": "2024-12-06",
+      "pickup_time": "1:00 PM",
+      "special_instructions": "Add extra ketchup"
+    }
+  ]
+}
